@@ -529,8 +529,16 @@ body {
     cursor: pointer;
 }
 
-.contact .info .social i:hover {
-    color: var(--main-color);
+.contact .info .social #A_1:hover {
+    color: #223bfc;
+}
+
+.contact .info .social #A_2:hover {
+    color: red;
+}
+
+.contact .info .social #A_3:hover {
+    color: #22b4d5;
 }
 
 @media (max-width:767px) {
